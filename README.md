@@ -1,7 +1,7 @@
 
 
 <h1 align="center"><b>Hola , Soy Alberto Calero </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+<!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://github.com/alexo2407/alexo2407/blob/main/1692647380567.jpeg"></a>
 </p>
@@ -18,11 +18,7 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Desarrollador y diseñador de aplicaciones y sitios web basados en la interacción y la experiencia del usuario UX/UI.
 
 <br><br>
 
