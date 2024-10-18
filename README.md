@@ -14,8 +14,6 @@
 	
 ##  **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
 - Desarrollador y diseñador de aplicaciones y sitios web basados en la interacción y la experiencia del usuario UX/UI.
